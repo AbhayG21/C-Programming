@@ -20,4 +20,5 @@ void Addition(int n, int sum)
         sum += n;
         return Addition(n - 1, sum);
     }
+    return 0;
 }

@@ -19,4 +19,6 @@ int fib(int n)
     int f2 = fib(n - 2);
     int f = f1 + f2;
     return f;
+
+    return 0;
 }

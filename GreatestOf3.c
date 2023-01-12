@@ -36,4 +36,6 @@ int main()
     }
     else
         printf("All three are equal");
+
+    return 0;
 }

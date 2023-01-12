@@ -13,4 +13,6 @@ int main()
         sum += a;
     }
     printf("Sum = %d", sum);
+
+    return 0;
 }

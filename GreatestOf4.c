@@ -12,4 +12,6 @@ int main()
     {
         printf("Greatest: %d", g);
     }
+
+    return 0;
 }

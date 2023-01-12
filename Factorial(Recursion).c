@@ -20,4 +20,5 @@ void fac(int n, int Factorial)
         Factorial *= n;
         return fac(n - 1, Factorial);
     }
+    return 0;
 }
