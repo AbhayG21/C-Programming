@@ -35,6 +35,5 @@ int main()
     struct vector sum = {0};
 
     calcSum(v1,v2,sum);
-
     return 0; 
 }

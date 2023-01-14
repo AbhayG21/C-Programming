@@ -19,6 +19,5 @@ int main()
     printf("Real part:%d\n", (ptr->real));
     printf("Imaginary part:%d\n", (ptr->imaginary));
     printf("Complex number: %d + %di\n",ptr->real,ptr->imaginary);
-
     return 0;
 }
